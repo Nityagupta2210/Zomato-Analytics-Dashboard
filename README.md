@@ -71,12 +71,18 @@ Analyzing reviews
  
  
 
+
 **Technologies Used:**
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Power BI
  
 **Outcome:**
