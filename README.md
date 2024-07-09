@@ -76,6 +76,7 @@ Analyzing reviews
  
 
 
+
 **Technologies Used:**
 
 Python
@@ -90,6 +91,7 @@ Seaborn
 
 Power BI
  
+
 **Outcome:**
  
 This project demonstrates my proficiency in data analysis, visualization, and storytelling using Python and Power BI. By dissecting the Zomato Bangalore dataset, I not only gained valuable insights into the city's culinary scene but also developed the skills to translate raw data into actionable intelligence for decision-makers in the food industry. Whether it's understanding consumer preferences, identifying emerging trends, or optimizing business strategies, the findings of this analysis provide valuable guidance for stakeholders navigating Bangalore's dynamic food landscape.
