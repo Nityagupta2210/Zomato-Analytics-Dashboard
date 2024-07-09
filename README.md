@@ -8,7 +8,7 @@ I was always fascinated by the food culture of Bengaluru. Restaurants from all o
 
 ​
 
-**In this notebook, I will try to analyze the Business Problem of Zomato.**
+[**In this notebook, I will try to analyze the Business Problem of Zomato.**](https://www.kaggle.com/code/nityadataanalyst/zomato-bangalore-data-analysis-project)
 
 
 
@@ -95,3 +95,5 @@ Power BI
 **Outcome:**
  
 This project demonstrates my proficiency in data analysis, visualization, and storytelling using Python and Power BI. By dissecting the Zomato Bangalore dataset, I not only gained valuable insights into the city's culinary scene but also developed the skills to translate raw data into actionable intelligence for decision-makers in the food industry. Whether it's understanding consumer preferences, identifying emerging trends, or optimizing business strategies, the findings of this analysis provide valuable guidance for stakeholders navigating Bangalore's dynamic food landscape.
+
+[**NOTEBOOK**](https://www.kaggle.com/code/nityadataanalyst/zomato-bangalore-data-analysis-project)
