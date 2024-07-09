@@ -20,10 +20,15 @@ I was always fascinated by the food culture of Bengaluru. Restaurants from all o
 **2. Data Cleaning:**
 
 Deleting redundant columns.
+
 Renaming the columns.
+
 Dropping duplicates.
+
 Cleaning individual columns.
+
 Remove the NaN values from the dataset
+
 Some Transformations
 
 **3. Data Preprocessing:**
